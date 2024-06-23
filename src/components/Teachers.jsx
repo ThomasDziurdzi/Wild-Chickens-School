@@ -6,6 +6,7 @@ function Teachers({ chickenTab }) {
 
     return (
         <>
+            
             {filteredChicken.map((chicken) => {
                 return (
                     <Card
